@@ -3,3 +3,5 @@ Git is free software.
 new world
 new new
 add 4 message
+
+bugFixed commit 1
