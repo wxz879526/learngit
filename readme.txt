@@ -5,3 +5,4 @@ new new
 add 4 message
 
 bugFixed commit 1
+bugFixed commit 2
